@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\bin\Debug\net6.0\rrrr1.exe
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\bin\Debug\net6.0\rrrr1.deps.json
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\bin\Debug\net6.0\rrrr1.runtimeconfig.json
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\bin\Debug\net6.0\rrrr1.dll
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\bin\Debug\net6.0\ref\rrrr1.dll
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\bin\Debug\net6.0\rrrr1.pdb
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.dll
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\ref\rrrr1.dll
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.pdb
+C:\Users\Антон\Desktop\Новая папка (3)\rrrr1\obj\Debug\net6.0\rrrr1.genruntimeconfig.cache
